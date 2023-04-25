@@ -11,7 +11,7 @@ The similar project will be done for ETL using SQL Server Integration Service (S
 is a source of reallife data about traffic in United Kingdom.
 
 ## Script file
-[UK Traffic](https://github.com/halethithu/Movies_Industry_EDA_DataDesign_SQL/blob/main/Movies_Industry_Script.sql)
+[UK Traffic](https://github.com/halethithu/Database_Design_UKTraffic/blob/main/TrafficUK.sql)
 
 
 ## Reference
